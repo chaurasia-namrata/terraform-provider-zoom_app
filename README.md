@@ -79,7 +79,7 @@ Otherwise you can manually move the file from current directory to destination d
 6. You will see that a user data has been successfully updated.
 
 #### Read the User Data
-1. Uncomment the data and resource blocks of the `main.tf` file
+1. Add the data and resource blocks of the `main.tf` file
 2. Run the command `terraform plan`
 3. This will fetch you all the necessary details of the user.
 
