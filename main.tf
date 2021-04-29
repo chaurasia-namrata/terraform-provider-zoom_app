@@ -25,6 +25,6 @@ data "zoom_user" "user1" {
 }
 
 
-output "user3" {
+output "user1" {
    value = data.zoom_user.user1
  }
