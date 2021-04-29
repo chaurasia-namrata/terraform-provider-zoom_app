@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 	"strings"
-	"terraform-provider-zoom_app/server"
+	"terraform-provider-zoomapp/server"
 	"os"
 	"log"
 )
