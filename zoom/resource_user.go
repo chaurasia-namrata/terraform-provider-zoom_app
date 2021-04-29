@@ -6,8 +6,8 @@ import (
 	"log"
 	"regexp"
 	"strings"
-	"terraform-provider-zoom/client"
-	"terraform-provider-zoom/server"
+	"terraform-provider-zoom_app/client"
+	"terraform-provider-zoom_app/server"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
