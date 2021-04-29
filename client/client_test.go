@@ -2,7 +2,7 @@ package client
 
 import (
 	"os"
-	"terraform-provider-zoom/server"
+	"terraform-provider-zoom_app/server"
 	"testing"
 	"github.com/stretchr/testify/assert"
 )
